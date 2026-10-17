@@ -1,0 +1,110 @@
+[
+  {
+    "order_id": 1,
+    "order_date": "2024-01-10",
+    "total_amount": 200.50,
+    "customer": {
+      "customer_id": 101,
+      "name": "Shakeel",
+      "email": "hamza@example.com",
+      "address": "123 Main StSpringfield"
+    },
+    "products": [
+      {
+        "product_id": "P01",
+        "name": "Wireless Mouse",
+        "category": "Electronics",
+        "price": 25.00,
+        "quantity": 2
+      },
+      {
+        "product_id": "P02",
+        "name": "Bluetooth Keyboard",
+        "category": "Electronics",
+        "price": 45.00,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 12,
+    "order_date": "2024-01-19",
+    "total_amount": 180.00,
+    "customer": {
+      "customer_id": 103,
+      "name": "Ali Khan",
+      "email": "alitareen@example.com",
+      "address": "789 Birch StSpringfield"
+    },
+    "products": [
+      {
+        "product_id": "P01",
+        "name": "Wireless Mouse",
+        "category": "Electronics",
+        "price": 25.00,
+        "quantity": 2
+      },
+      {
+        "product_id": "P05",
+        "name": "Desk Organizer",
+        "category": "Furniture",
+        "price": 30.00,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 1,
+    "order_date": "2024-01-10",
+    "total_amount": 200.50,
+    "customer": {
+      "customer_id": 101,
+      "name": "Hamza Nisar",
+      "email": "hamza@example.com",
+      "address": "123 Main StSpringfield"
+    },
+    "products": [
+      {
+        "product_id": "P01",
+        "name": "Wireless Mouse",
+        "category": "Electronics",
+        "price": 25.00,
+        "quantity": 2
+      },
+      {
+        "product_id": "P02",
+        "name": "Bluetooth Keyboard",
+        "category": "Electronics",
+        "price": 45.00,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 12,
+    "order_date": "2024-01-19",
+    "total_amount": 180.00,
+    "customer": {
+      "customer_id": 103,
+      "name": "Panda",
+      "email": "alitareen@example.com",
+      "address": "789 Birch StSpringfield"
+    },
+    "products": [
+      {
+        "product_id": "P01",
+        "name": "Wireless Mouse",
+        "category": "Electronics",
+        "price": 25.00,
+        "quantity": 2
+      },
+      {
+        "product_id": "P05",
+        "name": "Desk Organizer",
+        "category": "Furniture",
+        "price": 30.00,
+        "quantity": 1
+      }
+    ]
+  }
+]
