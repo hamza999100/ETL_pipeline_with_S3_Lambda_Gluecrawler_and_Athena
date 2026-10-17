@@ -2,7 +2,7 @@
 
 An event-driven pipeline that ingests nested JSON order data, flattens and cleans it, stores it as Parquet in an S3 data lake, and makes it queryable with SQL in Amazon Athena. No servers to manage, and near-zero cost at small scale.
 
-![Architecture](images/architecture.png)
+
 
 ## How it works
 
